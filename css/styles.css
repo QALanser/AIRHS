@@ -85,6 +85,19 @@
   }
 }
 
+/* My additions */
+.section-how {
+  padding: 9.6rem 0;
+}
+
+.container {
+  /* 1140px */
+  max-width: 120rem;
+  padding: 0 3.2rem;
+  margin: 0 auto;
+}
+
+
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
@@ -11191,3 +11204,4 @@ body {
 .footer {
   padding: 5rem 0;
 }
+
